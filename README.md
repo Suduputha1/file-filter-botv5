@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Maliksahid786/file-filter-botv5">
+<a href="https://heroku.com/deploy?template=https://github.com/Suduputha1/file-filter-botv5">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -97,5 +97,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Sahid malik](https://t.me/sahid_malik)                                                                                                                                                                                 
+Owner 👉 [Witcher](https://t.me/GwitcherG)                                                                                                                                                                                 
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [Unlimited Movie Zone](https://t.me/Unlimited_Movie_Zone)
